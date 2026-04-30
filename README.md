@@ -7,6 +7,7 @@ Este é um projeto de e-commerce simples desenvolvido durante um curso de React 
 - React
 - TypeScript
 - Vite
+- Tailwind CSS
 - Context API (para carrinho)
 - JSON-server (ou `db.json`) para dados locais
 
