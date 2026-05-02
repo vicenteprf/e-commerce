@@ -1,4 +1,4 @@
-# E-commerce (Projeto de Curso)
+# E-commerce
 
 Este é um projeto de e-commerce simples desenvolvido durante um curso de React + TypeScript com Vite. O objetivo foi praticar conceitos de front-end moderno, gerenciamento de estado e integração com uma API (simulada via `db.json`).
 
